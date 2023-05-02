@@ -1,0 +1,37 @@
+.Calculadora{
+    padding: 10px;
+    background-color: rgb(150, 168, 212);
+}
+.boton{
+    background-color: rgb(198, 218, 235);
+}
+#cuerpo{
+    background-color: rgb(228, 237, 245);
+}
+.mensaje1{
+    color: rgb(170, 66, 66);
+}
+#cuerpo2{
+    background-color:rgb(228, 237, 245);
+}
+.titulo{
+    color: rgb(168, 60, 60);
+}
+#prom1{
+    background-color:rgb(150, 168, 212) ;
+}
+#prom2{
+    background-color:rgb(150, 168, 212) ;
+}
+#prom3{
+    background-color:rgb(150, 168, 212) ;
+}
+.subtituloE{
+    text-align: center;
+}
+#color{
+    background-color: aqua;
+}
+.div{
+    text-align: center;
+}
